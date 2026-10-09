@@ -12,9 +12,9 @@ I recently built:
 
 ## 📫 Connect With Me
  
-💼 [**LinkedIn:**](https://www.linkedin.com/in/othniel-alfa/)
+💼 [**LinkedIn**](https://www.linkedin.com/in/othniel-alfa/)
 
-📧 [**Email:**](mailto:othnielalfa@gmail.com)
+📧 [**Email**](mailto:othnielalfa@gmail.com)
 
 ## 🛠️ Technical Skills
 
